@@ -9,5 +9,5 @@ plt.plot(
 )
 plt.scatter(data[:, 0], data[:, 1])
 plt.xlabel("xa")
-plt.ylabel("ya")
+plt.ylabel("y")
 plt.savefig("plot.png")
